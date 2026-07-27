@@ -15,4 +15,5 @@ Proportional Resampler: Integrated .NET System.Drawing high-quality bicubic resa
 Micro-Detail Prompt Enhancer: Injects high-frequency quality tags (masterpiece, highly detailed dragon scales, intricate mandala patterns, sharp focus) to synthesize fine micro-textures at the diffusion level.
 Metadata Sidecar Logging:
 Automatically generates matching .txt log files (AI_Gen_12345678.txt) alongside generated PNGs containing timestamp, prompt, enhanced prompt, seed, model engine, aspect ratio, quality tier, and API target URL.](https://private-
+
 <img width="1053" height="968" alt="image" src="https://github.com/user-attachments/assets/c3eb889c-e9a6-408a-ac6d-82eff7b9ec80" />
